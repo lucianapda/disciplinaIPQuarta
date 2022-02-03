@@ -1,3 +1,6 @@
+<!-- [x]TODO:INICIO atualizar -->  
+[JavaDownLoad]: <https://adoptium.net/> "JavaDownLoad"  
+
 # Disciplina de Introdução à Programação
 
 ## Ambiente de Desenvolvimento Prático
@@ -8,9 +11,9 @@ Para o desenvolvimento da parte prática precisamos de uma **Linguagem de Progra
 
 Para instalar o Java acesse o link
 
-[<https://adoptopenjdk.net/>](<https://adoptopenjdk.net/> "Para instalar o Java").
+[JavaDownLoad].  
 
-Selecionar OpenJDK 11 (LTS) e HotSpot. Clique no Último Lançamento, e assim irá baixar um arquivo .msi. Depois dê dois clicks no arquivo, … e alguns next … mas ATENÇÃO … se aparecer uma janela deste tipo
+Selecionar Temurin 11 (LTS) ou uma versão mais recente. Clique no Último Lançamento, e assim irá baixar um arquivo .msi. Depois dê dois clicks no arquivo, … e alguns next … mas ATENÇÃO … se aparecer uma janela deste tipo
 
 ![Path do Java](../imgs/OpenJDKpath.png "Path do Java")
 
