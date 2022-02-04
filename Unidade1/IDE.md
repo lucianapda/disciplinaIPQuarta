@@ -1,4 +1,4 @@
-<!-- [x]TODO:INICIO atualizar -->  
+<!-- [ ]TODO:INICIO atualizar -->  
 [JavaDownLoad]: <https://adoptium.net/> "JavaDownLoad"  
 
 # Disciplina de Introdução à Programação
