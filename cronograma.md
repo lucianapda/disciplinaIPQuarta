@@ -60,7 +60,7 @@ Fontes: [src](./Unidade1/src "src")
 <!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->
 ### [Unidade1-Atividades](Unidade1 "Unidade1-Atividades")
 
-- **Prazo: 01/03/2022 (terça)**  
+- **Prazo: 01-03-2022 (terça)**  
 - Assistir as videoaulas das Unidades1 e Unidades2  
 - Responder o [Unidade1_Questionário]  
 - Responder o [Unidade2_Questionário]  
@@ -90,7 +90,7 @@ Fontes: [src](Unidade2/src "src")
 <!-- [ ] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->
 ### [Unidade2-Atividades](Unidade2 "Unidade2-Atividades")
 
-- **Prazo: 06/03/2022 (domingo)**  
+- **Prazo: 06-03-2022 (domingo)**  
 - Assistir as videoaulas da Unidades3  
 - Responder o [Unidade3_Questionário]  
 
@@ -132,10 +132,10 @@ Fontes: [src](./Unidade3/src "src")
 - listas de exercícios: [atividadeUri](Unidade3/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade3/atividadeAula.md "atividadeAula").  
 
 <!-- [ ] Aviso: Unidades 3 atividades URI <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-57194025> -->
-<!-- [ ] Aviso: Unidades 3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->
+<!-- [ ] Aviso: Unidades 4 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59664910> -->
 ### [Unidade3-Atividades](Unidade3 "Unidade3-Atividades")
 
-- **Prazo: 20/03/2022 (domingo)**  
+- **Prazo: 20-03-2022 (domingo)**  
 - [atividadeUri](Unidade3/atividadeUri.md "atividadeUri")  
 - [atividadeAula](Unidade3/atividadeAula.md "atividadeAula")  
 - Assistir a videoaula da Unidades4  
@@ -200,16 +200,18 @@ Fontes: [src](./Unidade4/src "src")
 
 ### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades")
 
-- **Prazo: 10/04/2022 (domingo)**  
+- **Prazo: 10-04-2022 (domingo)**  
 - [atividadeUri](Unidade4/atividadeUri.md "atividadeUri")  
 - [atividadeAula](Unidade4/atividadeAula.md "atividadeAula")  
 <!-- - liberar exercícios unidade 3 e 4.  -->
 
 -----------
+## [Prova1](Prova1 "Prova1")
 
 ### [Aula_22](Unidade4/aula.md#Aula_22 "11-04-2022 segunda") 11-04-2022 segunda  
 
 - Revisão Prova1  
+<!-- [ ] Aviso: Prova1: Lembrete <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-69779676> -->
 
 ### [Aula_23](Unidade4/aula.md#Aula_23 "13-04-2022	quarta") 13-04-2022 quarta  
 
@@ -220,9 +222,10 @@ Fontes: [src](./Unidade4/src "src")
 ### [Aula_24](Unidade4/aula.md#Aula_24 "13-04-2022 quarta") 13-04-2022 quarta  
 
 - Correção Prova1  
+<!-- [ ] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->
 
 <!-- Aviso: Unidades 5 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59665031> -->
-- **Prazo: 17/04/2022 (domingo)**  
+- **Prazo: 17-04-2022 (domingo)**  
 - Assistir as videoaulas da Unidades5  
 - Responder o [Unidade5_Questionário]  
 
@@ -294,7 +297,7 @@ Fontes: [src](./Unidade5/src "src")
 <!-- Aviso: Unidades 6 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266455> -->
 ### [Unidade5-Atividades](./Unidade5 "Unidade5-Atividades")
 
-- **Prazo: 08/05/2022 (domingo)**  
+- **Prazo: 08-05-2022 (domingo)**  
 - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri")  
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula")  
 - Assistir as videoaulas da Unidades6  
@@ -356,15 +359,18 @@ Fontes: [src](./Unidade6/src "src")
 
 ### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades")
 
-- **Prazo: 29/05/2022 (domingo)**  
+- **Prazo: 29-05-2022 (domingo)**  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula")  
 <!-- - liberar exercícios unidade 5 e 6.  -->  
 
 -----------
 
+## [Prova2](Prova2 "Prova2")
+
 ### [Aula_43](Unidade7/aula.md#Aula_43 "30-05-2022 segunda") 30-05-2022 segunda  
 
 - Revisão Prova2  
+<!-- [ ] Aviso: Prova2 Lembrete <> -->
 
 ### [Aula_44](Unidade7/aula.md#Aula_44 "01-06-2022 quarta") 01-06-2022 quarta  
 
@@ -375,9 +381,10 @@ Fontes: [src](./Unidade6/src "src")
 ### [Aula_45](Unidade7/aula.md#Aula_45 "01-06-2022 quarta") 01-06-2022 quarta  
 
 - Correção Prova2  
+<!-- [ ] Aviso: Prova2 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-63075365> -->
 
 <!-- Aviso: Unidades 7 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266044> -->
-- **Prazo: 29/05/2022 (domingo)**  
+- **Prazo: 05-06-2022 (domingo)**  
 - Assistir as videoaulas da Unidades7  
 - Responder o [Unidade7_Questionário]  
 
@@ -391,7 +398,7 @@ Fontes: [src](./Unidade7/src "src")
 ### [Aula_46](Unidade7/aula.md#Aula_46 "06-06-2022 segunda") 06-06-2022 segunda  
 
 <!-- Definir [equipes](<@@@@> "equipes") no AVA3  .. avisa para não montar equipes na hora da entrega!-->
-- enunciado do Trabalho Final;  
+- enunciado do [TrabalhoFinal](./TrabalhoFinal "TrabalhoFinal")
 - introdução a orientação a objetos: demonstração de exemplos: Java e VSCode.  
 
 ### [Aula_47](Unidade7/aula.md#Aula_47 "08-06-2022 quarta") 08-06-2022 quarta  

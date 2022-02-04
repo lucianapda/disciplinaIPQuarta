@@ -113,4 +113,4 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 
 ## Ambiente de Desenvolvimento Prático - Apoio
 
-- [ ] [Ambiente de Desenvolvimento Prático](IDE.md "Ambiente de Desenvolvimento Prático").  
+- [ ] [Ambiente de Desenvolvimento Prático](../Unidade1/IDE.md "Ambiente de Desenvolvimento Prático").  
