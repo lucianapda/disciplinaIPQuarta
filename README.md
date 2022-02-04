@@ -31,6 +31,7 @@ Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com
 **IMPORTANTE**: sempre consulte o [Cronograma](cronograma.md "Cronograma") para verificar os prazos de entrega das atividades avaliativas.  
 
 Algumas dúvidas que devem ser resolvidas com os conteúdos das unidades abaixo podem ser vistas aqui: [dúvidas](<https://viewer.diagrams.net/?tags={}&p=ex&highlight=0000ff&edit=_blank&layers=1&nav=1&title=teste.drawio.svg#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1pc2VzUZDZm-QinR46nu2Yv4xEuzKIX52%26export%3Ddownload> "dúvidas")  
+<!-- FIXME: terminar os textos do diagrama acima -->
 
 ## [Unidade1](./Unidade1 "Unidade1")
 
