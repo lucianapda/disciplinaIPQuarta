@@ -168,13 +168,13 @@ Fontes: [src](./Unidade4/src "src")
 - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf").  
 - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
 
-### [Aula_16](Unidade4/aula.md#Aula_16 “28-03-2022 segunda") 28-03-2022 segunda  
+### [Aula_16](Unidade4/aula.md#Aula_16 "28-03-2022 segunda") 28-03-2022 segunda  
 
 - comandos de controle de fluxo: seleção;  
   - Grupo COMPOSTO E e OU (&& e ||): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e- "atividadeAula-GrupoComposto").  
 
-### [Aula_17](Unidade4/aula.md#Aula_17 “30-03-2022 quarta") 30-03-2022 quarta  
+### [Aula_17](Unidade4/aula.md#Aula_17 "30-03-2022 quarta") 30-03-2022 quarta  
 
 - comandos de controle de fluxo: seleção;  
   - Grupo ESCOLHA (switch): demonstração de exemplos: Java e VSCode;  
