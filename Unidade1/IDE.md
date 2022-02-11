@@ -69,3 +69,9 @@ Uma maneira prática de testar o ambiente que iremos usar é criando um "Hello W
 ![Execução no Terminal](../imgs/VSCodeJavaTerminal.png "Execução no Terminal")
 
 - este texto é a mensagem que foi definida no programa "App.java" para ser escrito para o usuário … e … meus parabéns, já tens o PRIMEIRO programa em Java 😉.
+
+## Ambiente de Desenvolvimento Versão Web
+
+[https://vscode.dev/](<https://vscode.dev/>)  
+
+Também existe a opção de usar o VSCode usando um Navegador Web (Browser), mas aconselho a só usar como um "plano B". Acredito que a opção [IDE Desktop](#ambiente-de-desenvolvimento-pr%C3%A1tico) seja mais indicada.  
