@@ -16,6 +16,10 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 
 - Avisos: os avisos serão feitos todos pelo Teams
 
+## FURB
+
+[Materiais](<https://github.com/dalton-reis/dalton-reis/blob/main/furb.md> "Materiais")  
+
 ## [Apresentação do Professor](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Apresentação do Professor")  
 
 ## Plano de Ensino
