@@ -27,6 +27,8 @@
 [Unidade7_DefinirEquipes]: <https://ava3.furb.br/mod/forum/view.php?id=573180> "Unidade7_DefinirEquipes"
 [Unidade7_TrabalhoFinal_entrega]: <https://ava3.furb.br/mod/assign/view.php?id=573181> "Unidade7_TrabalhoFinal_entrega"
 
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29222> "PlanoEnsinoAVA"  
+
 # Cronograma: IP (2022-1) - matutino  
 
 Local: S-403  
@@ -41,7 +43,7 @@ Fontes: [src](./Unidade1/src "src")
 <!-- ### [Aula_01](Unidade1/aula.md#Aula_01 " 21-02-2022	segunda") 21-02-2022 segunda -->  
 ### [Aula_02](Unidade1/aula.md#Aula_02 "23-02-2022 quarta") 23-02-2022 quarta  
 
-- apresentação, plano de ensino e AVA3;  
+- apresentação, plano de ensino e AVA3: [PlanoEnsinoAVA]  
 - conteúdo e cronograma (aulas teóricas x práticas), frequências e avaliações (DION), e bibliografia;  
 - créditos em sala (6) x créditos a distância (1);  
 - sala de aula invertida: vídeos aulas, slides e práticas;  
