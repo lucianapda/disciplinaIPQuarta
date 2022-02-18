@@ -1,5 +1,6 @@
 <!-- [@]TODO:INICIO atualizar -->
 [AVA3]: <https://ava3.furb.br/course/view.php?id=29222> "AVA3"  
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29222> "PlanoEnsinoAVA"  
 <!-- FIXME: [Prova de Suficiência (inscrição)]: <https://forms.office.com/r/qjF4LaMBGA> "Prova de Suficiência (inscrição)" -->  
 [Aulas MS-Teams]: <https://teams.microsoft.com/l/team/19%3adYkgyhUyhdggDfLyrqaXl8XhqH1Cxxjg6xafT5UYrSo1%40thread.tacv2/conversations?groupId=834a0c35-9086-4dc6-9f1b-edfa59972a3d&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams"  
 <!--
@@ -23,6 +24,7 @@ Já para desenvolver a parte prática precisaremos de um computador (PC/Mac) com
 ## Links
 
 [AVA3]  
+[PlanoEnsinoAVA]  
 <!-- [Prova de Suficiência (inscrição)]  -->  
 [Aulas MS-Teams]  
 <!-- [Gravações das aulas]  -->

@@ -3,6 +3,7 @@
 ### [Aula_02](Unidade1/aula.md#Aula_02 "	23-02-2022	quarta		23-02-2022	quarta
 ### [Aula_03](Unidade1/aula.md#Aula_03 "	23-02-2022	quarta	")	23-02-2022	quarta
 -->
+[PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29222> "PlanoEnsinoAVA"  
 
 # Algumas anotações das aulas
 
@@ -22,7 +23,7 @@ Vocês irão notar que quando preciso fazer algum rabisco eu uso o Draw.io. Para
 
 ## [Apresentação do Professor](https://github.com/dalton-reis/dalton-reis/blob/main/README.md "Apresentação do Professor")  
 
-## Plano de Ensino
+## [PlanoEnsinoAVA]
 
 Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
