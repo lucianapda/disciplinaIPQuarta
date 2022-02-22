@@ -170,13 +170,13 @@ Fontes: [src](./Unidade4/src "src")
 - [atividadeAula-GrupoIf](Unidade4/atividadeAula.md#grupo-se-if "atividadeAula-GrupoIf").  
 - [atividadeAula-GrupoIfElse](Unidade4/atividadeAula.md#grupo-se---senão-if---else "atividadeAula-GrupoIfElse").  
 
-### [Aula_16](Unidade4/aula.md#Aula_16 “04-04-2022 segunda-feira") 04-04-2022 segunda-feira
+### [Aula_16](Unidade4/aula.md#Aula_16 "04-04-2022 segunda-feira") 04-04-2022 segunda-feira
 
 - comandos de controle de fluxo: seleção;  
   - Grupo COMPOSTO E e OU (&& e ||): demonstração de exemplos: Java e VSCode;  
     - [atividadeAula-GrupoComposto](Unidade4/atividadeAula.md#grupo-composto-e-e-ou--e- "atividadeAula-GrupoComposto").  
 
-### [Aula_17](Unidade4/aula.md#Aula_17 “06-04-2022 quarta-feira") 06-04-2022 quarta-feira
+### [Aula_17](Unidade4/aula.md#Aula_17 "06-04-2022 quarta-feira") 06-04-2022 quarta-feira
 
 - comandos de controle de fluxo: seleção;  
   - Grupo ESCOLHA (switch): demonstração de exemplos: Java e VSCode;  
@@ -200,7 +200,7 @@ Fontes: [src](./Unidade4/src "src")
 
 - listas de exercícios: [atividadeUri](Unidade4/atividadeUri.md "atividadeUri") e [atividadeAula](Unidade4/atividadeAula.md "atividadeAula").  
 
-### [Unidade4-Atividades](Unidade4 “Unidade4-Atividades") Prazo: 17-04-2022 domingo
+### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 17-04-2022 domingo
 
 - [atividadeUri](Unidade4/atividadeUri.md "atividadeUri")  
 - [atividadeAula](Unidade4/atividadeAula.md "atividadeAula")  
@@ -227,7 +227,7 @@ Fontes: [src](./Unidade4/src "src")
 <!-- [ ] Aviso: Prova1 correção <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-58035800> -->
 
 <!-- Aviso: Unidades 5 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-59665031> -->
-### [Unidade4-Atividades](Unidade4 “Unidade4-Atividades") Prazo: 24-04-2022 domingo
+### [Unidade4-Atividades](Unidade4 "Unidade4-Atividades") Prazo: 24-04-2022 domingo
 
 - Assistir as videoaulas da Unidades5  
 - Responder o [Unidade5_Questionário]  
@@ -298,7 +298,7 @@ Fontes: [src](./Unidade5/src "src")
     - [atividadeAula-GrupoDoWhile](Unidade5/atividadeAula.md#grupo-faça-enquanto-do-while "atividadeAula-GrupoDoWhile").  
 
 <!-- Aviso: Unidades 6 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-62266455> -->
-### [Unidade5-Atividades](Unidade5 “Unidade5-Atividades") Prazo: 15-05-2022 domingo
+### [Unidade5-Atividades](Unidade5 "Unidade5-Atividades") Prazo: 15-05-2022 domingo
 
 - [atividadeUri](Unidade5/atividadeUri.md "atividadeUri")  
 - [atividadeAula](Unidade5/atividadeAula.md "atividadeAula")  
@@ -359,7 +359,7 @@ Fontes: [src](./Unidade6/src "src")
 - demonstração de exemplos: Java e VSCode;  
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula").  
 
-### [Unidade6-Atividades](Unidade6 “Unidade6-Atividades") Prazo: 05-06-2022 domingo
+### [Unidade6-Atividades](Unidade6 "Unidade6-Atividades") Prazo: 05-06-2022 domingo
 
 - [atividadeAula](Unidade6/atividadeAula.md "atividadeAula")  
 <!-- - liberar exercícios unidade 5 e 6.  -->  
@@ -425,7 +425,7 @@ Fontes: [src](./Unidade7/src "src")
 
 - desenvolvimento do trabalho final.  
 
-### [Unidade7-Atividades](Unidade7 “Unidade7-Atividades”) Prazo: 26-06-2022 domingo
+### [Unidade7-Atividades](Unidade7 "Unidade7-Atividades”) Prazo: 26-06-2022 domingo
 
 - entrega do Trabalho Final  
 
