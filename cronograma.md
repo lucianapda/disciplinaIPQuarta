@@ -31,10 +31,10 @@
 
 <!-- Cronograma -->
 
-# Cronograma: IP (2022-1) - matutino  
+# Cronograma: IP (2022-1) - Turma 004  
 
-Local: S-403  
-Dia da semana: segundas (9:30\~11:10) e quartas (7:30\~11:10)  
+Local: S-413  
+Dia da semana: terças (18h 30min as 20h 10min) e quartas (18h 30min as 22h)  
 
 <!-- [ ] Aviso: Inicio das aulas <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55424447> -->
 ## [Unidade1](Unidade1 "Unidade1")  
@@ -43,7 +43,7 @@ Ementa - fundamentos da programação de computadores: solução de problemas e 
 Fontes: [src](./Unidade1/src "src")  
 
 <!-- ### [Aula_01](Unidade1/aula.md#Aula_01 " 21-02-2022	segunda") 21-02-2022 segunda -->  
-### [Aula_02](Unidade1/aula.md#Aula_02 "02-03-2022 quarta-feira") 02-03-2022 quarta-feira
+### [Aula_02](Unidade1/aula.md#Aula_02 "23-02-2022 quarta-feira") 23-02-2022 quarta-feira
 
 - apresentação, plano de ensino e AVA3: [PlanoEnsinoAVA]  
 - conteúdo e cronograma (aulas teóricas x práticas), frequências e avaliações (DION), e bibliografia;  
@@ -56,14 +56,14 @@ Fontes: [src](./Unidade1/src "src")
 - visão geral dos fundamentos da programação de computadores;  
 - conversa individual com os alunos (depois nos exercícios).  
 
-### [Aula_03](Unidade1/aula.md#Aula_03 "02-03-2022 quarta-feira") 02-03-2022 quarta-feira
+### [Aula_03](Unidade1/aula.md#Aula_03 "23-02-2022 quarta-feira") 23-02-2022 quarta-feira
 
 - demonstração de um `Hello World` usando Java e VSCode (mas o mínimo possível);  
 - instalar Java e VSCode (próxima aula).  
 
 <!-- [ ] Aviso: Unidades1e2 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-55427636> -->
 
-### [Unidade1-Atividades](Unidade1 "Unidade1-Atividades") Prazo: 06-03-2022 domingo
+### [Unidade1-Atividades](Unidade1 "Unidade1-Atividades") Prazo: 27-03-2022 domingo
 
 - Assistir as videoaulas das Unidades1 e Unidades2  
 - Responder o [Unidade1_Questionário]  
@@ -77,27 +77,27 @@ Fontes: [src](./Unidade1/src "src")
 Ementa - construção de algoritmos: dados, tipos, comandos e instruções.  
 Fontes: [src](Unidade2/src "src")  
 
-### [Aula_04](Unidade2/aula.md#Aula_04 "07-03-2022 segunda-feira") 07-03-2022 segunda-feira
+### [Aula_04](Unidade2/aula.md#Aula_04 "01-03-2022 terça-feira") 01-03-2022 terça-feira
 
 - Feriado Carnaval  
 
-### [Aula_05](Unidade2/aula.md#Aula_05 "09-03-2022 quarta-feira") 09-03-2022 quarta-feira
+### [Aula_05](Unidade2/aula.md#Aula_05 "02-03-2022 quarta-feira") 02-03-2022 quarta-feira
 
 - construção de algoritmos;  
 - usando Java e VSCode (workspace/project/class);  
 - método de resolução de algoritmos.  
 
-### [Aula_06](Unidade2/aula.md#Aula_06 "09-03-2022 quarta-feira") 09-03-2022 quarta-feira
+### [Aula_06](Unidade2/aula.md#Aula_06 "02-03-2022 quarta-feira") 02-03-2022 quarta-feira
 
 - método de resolução de algoritmos.  
 
 <!-- [ ] Aviso: Unidades3 atividades <https://github.com/dalton-reis/disciplinaIpPrivado/projects/2#card-56218482> -->
-### [Unidade2-Atividades](Unidade2 "Unidade2-Atividades") Prazo: 13-03-2022 domingo
+### [Unidade2-Atividades](Unidade2 "Unidade2-Atividades") Prazo: 06-03-2022 domingo
 
 - Assistir as videoaulas da Unidades3  
 - Responder o [Unidade3_Questionário]  
 
------------
+----------- O CRONOGRAMA A SEGUIR AINDA SERÁ ATUALIZADO -----
 
 ## [Unidade3](Unidade3 "Unidade3")
 
