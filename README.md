@@ -1,9 +1,9 @@
 <!-- [@]TODO:INICIO atualizar -->
-[AVA3]: <https://ava3.furb.br/course/view.php?id=29222> "AVA3"  
+[AVA3]: <https://ava3.furb.br/course/view.php?id=29361> "AVA3"  
 [PlanoEnsinoAVA]: <https://ava3.furb.br/course/view.php?id=29222> "PlanoEnsinoAVA"  
 [Prova de Suficiência (inscrição)]: <https://forms.office.com/r/y8JyDTqxv4> "Prova de Suficiência (inscrição)"  
-[Aulas MS-Teams]: <https://teams.microsoft.com/l/team/19%3adYkgyhUyhdggDfLyrqaXl8XhqH1Cxxjg6xafT5UYrSo1%40thread.tacv2/conversations?groupId=834a0c35-9086-4dc6-9f1b-edfa59972a3d&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams"  
-<!--
+<!--[Aulas MS-Teams]: <https://teams.microsoft.com/l/team/19%3adYkgyhUyhdggDfLyrqaXl8XhqH1Cxxjg6xafT5UYrSo1%40thread.tacv2/conversations?groupId=834a0c35-9086-4dc6-9f1b-edfa59972a3d&tenantId=0c2d222a-ecda-4b70-960a-acef6ced3052> "Aulas MS-Teams"  
+
 [Gravações das aulas]: <https://furb.sharepoint.com/:f:/t/CMP0166000220221/EryHg9vME5hDmjeRKi_LWrEBQytSxR7iESE2Mm2CgyqEiQ?e=Jk4Vfl> "Gravações das aulas"  
 -->
 
