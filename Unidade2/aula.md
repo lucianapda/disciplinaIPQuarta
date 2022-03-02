@@ -15,6 +15,10 @@
 Na última aula resolvemos dois problemas iniciais utilizando Java no VSCode.  
 Na aula de hoje, entenderemos um pouco mais a respeito do ambiente a ser utilizado durante o semestre, bem como resolveremos novos exercícios para treinar a habilidade de solucionar problemas e de interpretar textos.  
 
+## Perfil do aluno  
+
+Favor responder o [formulário de perfil](<https://forms.office.com/Pages/ResponsePage.aspx?id=KiItDNrscEuWCqzvbO0wUln0WMIdJTRDgdaFzW1RRxdUNVdPVUJHVzUwVk9LOVNLVkQxQVo0SEE1Ui4u> "formulário de perfil") para que possamos conhecer melhor o seu perfil.  
+
 ## Mostrar VScode  
 
 - Como criar projeto  
@@ -110,6 +114,10 @@ Nomes podem conter letras, números e _. Não podem conter caracteres especiais,
 - Entendendo o problema  
   
 - fluxograma  
+
+## [Atividades - Aula](atividadeAula.md "Atividades - Aula")  
+
+Vamos praticar um pouco com alguns enunciados ...  
 
 ## Ambiente de Desenvolvimento Prático - Apoio
 
