@@ -1,0 +1,13 @@
+@startuml Uni3Uri1010
+	title Uni3Uri1010
+	start
+	:ler(codPeca1);
+	:ler(qtdPeca1);
+	:ler(valorPeca1);
+	:ler(codPeca2);
+	:ler(qtdPeca2);
+	:ler(valorPeca2);
+	:total = (qtdPeca1 * valorPeca1) + (qtdPeca2 * valorPeca2);
+	:escrever("VALOR A PAGAR: R$ " + total);
+	stop
+@enduml

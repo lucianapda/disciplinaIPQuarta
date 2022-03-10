@@ -1,0 +1,33 @@
+@startuml Uni3Uri1021
+	title Uni3Uri1021
+	start
+	:ler(valor);
+	:n100 = (int) (valor / 100);
+	:n50 = (int) ((valor % 100) / 50);
+	:n20 = (int) (((valor % 100) % 50) / 20);
+	:n10 = (int) ((((valor % 100) % 50) % 20) / 10);
+	:n5 = (int) (((((valor % 100) % 50) % 20) % 10) / 5);
+	:n2 = (int) ((((((valor % 100) % 50) % 20) % 10) % 5) / 2);
+	:n1 = (int) (((((((valor % 100) % 50) % 20) % 10) % 5) % 2) / 1);
+	:valor100 = valor * 100;
+	:n050 = (int) ((valor100 % 100) / 50);
+	:n025 = (int) (((valor100 % 100) % 50) / 25);
+	:n010 = (int) ((((valor100 % 100) % 50) % 25) / 10);
+	:n005 = (int) (((((valor100 % 100) % 50) % 25) % 10) / 5);
+	:n001 = (int) (((((((valor100 % 100) % 50) % 25) % 10) % 5) / 1));
+	:escrever("NOTAS:");
+	:escrever(n100 + " nota(s) de R$ 100.00");
+	:escrever(n50 + " nota(s) de R$ 50.00");
+	:escrever(n20 + " nota(s) de R$ 20.00");
+	:escrever(n10 + " nota(s) de R$ 10.00");
+	:escrever(n5 + " nota(s) de R$ 5.00");
+	:escrever(n2 + " nota(s) de R$ 2.00");
+	:escrever("MOEDAS:");
+	:escrever(n1 + " moeda(s) de R$ 1.00");
+	:escrever(n050 + " moeda(s) de R$ 0.50");
+	:escrever(n025 + " moeda(s) de R$ 0.25");
+	:escrever(n010 + " moeda(s) de R$ 0.10");
+	:escrever(n005 + " moeda(s) de R$ 0.05");
+	:escrever(n001 + " moeda(s) de R$ 0.01");
+	stop
+@enduml

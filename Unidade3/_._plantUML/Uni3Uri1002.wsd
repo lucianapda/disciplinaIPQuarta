@@ -1,0 +1,9 @@
+@startuml Uni3Uri1002
+	title Uni3Uri1002
+	start
+	:ler(raio);
+	:pi = 3.14159;
+	:area = pi * Math.pow(raio,2);
+	:escrever("A=" + area);
+	stop
+@enduml

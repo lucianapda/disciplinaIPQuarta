@@ -1,0 +1,10 @@
+@startuml Uni3Uri1009
+	title Uni3Uri1009
+	start
+	:ler(nome);
+	:ler(salarioFixo);
+	:ler(vendas);
+	:total = salarioFixo + (vendas *0.15);
+	:escrever("TOTAL = R$ " + total);
+	stop
+@enduml

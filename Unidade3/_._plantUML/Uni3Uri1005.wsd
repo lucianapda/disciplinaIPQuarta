@@ -1,0 +1,11 @@
+@startuml Uni3Uri1005
+	title Uni3Uri1005
+ 	start
+ 	:ler(A)
+ 	A * 3.5;
+ 	:ler(B)
+ 	B * 7.5;
+ 	:soma = (B + A)/11;
+ 	:escrever("MEDIA = " + soma);
+ 	stop
+@enduml
