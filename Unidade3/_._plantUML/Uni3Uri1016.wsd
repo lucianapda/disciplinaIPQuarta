@@ -1,8 +1,0 @@
-@startuml Uni3Uri1016
-	title Uni3Uri1016
-	start
-	:ler(km);
-	:tempo = km * 2;
-	:escrever(tempo + " minutos");
-	stop
-@enduml

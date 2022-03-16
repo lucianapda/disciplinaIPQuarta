@@ -1,8 +1,0 @@
-@startuml Uni3Uri1004
-	title Uni3Uri1004
-	:ler(a);
-	:ler(b);
-	:PROD = b * a;
-	:escrever("PROD = " + PROD);
-	stop
-@enduml
