@@ -5,13 +5,13 @@ Olá, agora a atividade desta unidade será utilizar o URI para praticar a inter
 Bom, agora vocês devem acessar o link  
 
 <!-- [ ]TODO:INICIO atualizar -->
-[https://www.urionlinejudge.com.br/judge/en/disciplines/join/7956](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/7956> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/7956")  
+[https://www.urionlinejudge.com.br/judge/en/disciplines/join/8694](<https://www.urionlinejudge.com.br/judge/en/disciplines/join/8694> "https://www.urionlinejudge.com.br/judge/en/disciplines/join/8694")  
 
 <!-- [ ]TODO:INICIO atualizar -->
-para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: IP_Not \[2021-2\].  
+para criar uma conta e se inscreverem na disciplina criada dentro do URI. A disciplina tem o nome: IP_BCC_Not_A \[2021-2\].  
 
 <!-- [ ]TODO:INICIO atualizar -->
-Assim que acessar a disciplina informe a seguinte chave de acesso (token): 1lroxXn  
+Assim que acessar a disciplina informe a seguinte chave de acesso (token): yMdrXTo  
 
 Mas ATENÇÃO, usem o e-mail da furb (seuLogin @ furb . br) para criar a conta de vocês, e aonde for pedido para preencher o seu nome coloque o seu nome correto e completo.  
 
