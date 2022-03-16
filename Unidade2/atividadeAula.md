@@ -71,7 +71,7 @@ e) a área do retângulo que tem lados A e B.
 ## Uni2Exe12 [1][1015]  
 
 Leia os quatro valores correspondentes aos eixos x e y de dois pontos quaisquer no plano, p1(x1,y1) e p2(x2,y2) e calcule a distância entre eles, mostrando 4 casas decimais após a vírgula, segundo a fórmula:  
-Distancia =  
+Distancia =  https://prnt.sc/jvxvhv
 
 ## Uni2Exe13 [2][1016]  
 
