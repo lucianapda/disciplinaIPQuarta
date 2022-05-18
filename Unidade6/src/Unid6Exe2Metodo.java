@@ -52,6 +52,6 @@ public class Unid6Exe2Metodo {
     }
     
     public static void main(String[] args) {
-        new Unid6Exe2();
+        new Unid6Exe2Metodo();
     }
 }
