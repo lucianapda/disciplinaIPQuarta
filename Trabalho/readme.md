@@ -43,7 +43,7 @@ Ter uma classe descrita a seguir …
 - o construtor controla o "_____ Menu: Caça Palavras _____", que deve ser implementado usando um ```Do/While``` e seguir as mensagens como demostrado no exemplo de execução. As opções deste menu são:  
   - opção 1: chamar o método *palavrasImprimir*;  
   - opção 2: chamar o método *mapaImprimir*;  
-  - opção 3: chamar o método *palavrasRepostas*;  
+  - opção 3: chamar o método *palavrasRespostas*;  
   - opção 4: sair;  
   - consistir se foi digitado uma opção errada "Opção ERRADA!...".
 
@@ -57,7 +57,7 @@ O método *palavrasEntrada* deve atribuir as palavras abaixo à matriz *palavras
 
 O método *palavrasImprimir* deve imprimir as palavras da matriz *palavras*.  
 
-O método *palavrasRepostas* usa a segunda coluna da matriz *palavras* e se a palavra não foi encontrada imprime "Palavra NÃO encontrada". Mas se a palavra foi encontrada deve-se imprimir a linha e coluna do mapa do primeiro caratere da palavra (conforme demostrado no exemplo de execução).  
+O método *palavrasRespostas* usa a segunda coluna da matriz *palavras* e se a palavra não foi encontrada imprime "Palavra NÃO encontrada". Mas se a palavra foi encontrada deve-se imprimir a linha e coluna do mapa do primeiro caratere da palavra (conforme demostrado no exemplo de execução).  
 
 O método *mapaEntrada* deve atribuir os caracteres abaixo à matriz *mapa*:
 
